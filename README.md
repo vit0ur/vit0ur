@@ -4,6 +4,12 @@
 <a href="https://github.com/ItsVitu">
 </div>
 
+🌱 Em aprendizado contínuo
+Microsserviços e arquitetura distribuída
+Testes automatizados e TDD
+DevOps e CI/CD com GitHub Actions
+📫 Vamos conversar?
+Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, fique à vontade para me chamar aqui ou pelo LinkedIn.
 
 ## Ferramentas e tecnologias
 <div style="display: inline_block"><br>
