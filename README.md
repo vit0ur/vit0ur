@@ -6,8 +6,8 @@
 
 <h2>🌱 Em aprendizado contínuo</h2>
 <p>Microsserviços e arquitetura distribuída</p>
-<p>Testes automatizados e TDD<\p>
-<p>DevOps e CI/CD com GitHub Actions<\p>
+<p>Testes automatizados e TDD</p>
+<p>DevOps e CI/CD com GitHub Actions</p>
 <h2>📫 Vamos conversar?</h2>
 <p>Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, fique à vontade para me chamar aqui ou pelo LinkedIn.</p>
 
