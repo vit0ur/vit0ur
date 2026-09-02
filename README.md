@@ -4,13 +4,14 @@
 </div>
 
 ## 🚀 Sobre mim
-
-- Atualmente atuo como Desenvolvedor Java, focado em entregar soluções eficientes e escaláveis.
-- Gosto de aprender novas tecnologias e explorar diferentes abordagens para resolver problemas complexos.
-- Interesse especial por arquitetura de software, boas práticas de desenvolvimento e performance de aplicações.
-- Acredito no poder da colaboração e da comunidade para construir software melhor.
+Engenheiro de Software com sólida trajetória no desenvolvimento, manutenção e modernização de ecossistemas corporativos críticos nos setores financeiro e público.  
+Especialista na criação de serviços robustos em Java (Spring Boot) e C# (.NET), acompanhado de interfaces reativas em Angular/TypeScript.  
+Ampla vivência em arquitetura de microsserviços, integração de APIs (REST/SOAP), bancos de dados relacionais (Oracle, SQL Server) e NoSQL (MongoDB), além de mensageria assíncrona com Kafka e RabbitMQ.  
+Domínio em ecossistema de nuvem (Microsoft Azure, AWS), conteinerização (Docker, Kubernetes), pipelines de CI/CD (GitHub Actions) e práticas de qualidade de código (SonarQube, TDD). 
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Back-end:** Java, Spring Boot, C#, .NET
-- **Front-end:** JavaScript, Angular, React, Jquery, HTML, CSS, JSP
-- **Outros:** Git, Docker, REST APIs, SQL Server
+• Linguagens & Frameworks: Java, Spring Boot, JPA, C#, .NET Core, TypeScript, Angular, PHP, JavaScript  
+• Bancos de Dados & Cache: Oracle SQL, Microsoft SQL Server, MongoDB, PL/SQL, Redis  
+• Arquitetura & Mensageria: Kafka, RabbitMQ, APIs RESTful, SOAP, Microsserviços, Design Patterns, SOLID, Clean Code  
+• DevOps & Nuvem: Docker, Kubernetes, GitHub Actions, Microsoft Azure, AWS, CI/CD, SonarQube  
+• Testes & Ferramentas: JUnit, Mockito, xUnit, Moq, Postman, Swagger, Git, SVN, Jira 
